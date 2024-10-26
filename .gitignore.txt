@@ -1,0 +1,2 @@
+src/TaskManager/bin/
+src/TaskManager/obj/
